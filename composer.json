@@ -3,7 +3,7 @@
     "description": "Laravel package to get timezone by city",
     "type": "library",
     "require": {
-        "nesbot/carbon": "^3.8.4"
+        "nesbot/carbon": "^3.8"
     },
     "license": "MIT",
     "autoload": {
