@@ -1,5 +1,5 @@
 {
-    "name": "Fachrel/laravel-timezone-by-city",
+    "name": "fachrel/laravel-timezone-by-city",
     "description": "Laravel package to get timezone by city",
     "type": "library",
     "require": {
@@ -13,8 +13,8 @@
     },
     "authors": [
         {
-            "name": "Ilham Riski Wibowo",
-            "email": "ilhamriskiwibowo@gmail.com"
+            "name": "Fachrel Razka Pramudya",
+            "email": "fachrelzka@gmail.com"
         }
     ],
     "minimum-stability": "dev",
