@@ -17,6 +17,8 @@
             "email": "fachrelzka@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "homepage": "https://github.com/fachrel/laravel-timezone-by-city",
+    "keywords": ["laravel", "timezone", "city"]
 }
