@@ -1,6 +1,6 @@
 <?php
 
-namespace IlhamriSKY\GetTimeZoneByCity;
+namespace Fachrel\GetTimeZoneByCity;
 
 use Carbon\Carbon;
 
